@@ -40,7 +40,7 @@ Temporary Items
 *.icloud
 
 ### Python ###
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL filesy
 __pycache__/
 *.py[cod]
 *$py.class
@@ -186,6 +186,7 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+*.py
 .pyre/
 
 # pytype static type analyzer
